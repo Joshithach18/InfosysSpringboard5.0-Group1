@@ -14,6 +14,8 @@ Automated Speech-to-Text Transcription to convert recorded audio into text.
 
 Sentiment and Intent Analysis powered by state-of-the-art NLP models.
 
+Recommending Laptops based on the given input.
+
 Intelligent Negotiation Terms Generation based on buyer sentiment and intent.
 
 Seamless Google Sheets Integration to record and manage buyer interactions.
@@ -34,9 +36,7 @@ Functionality: Continuously records audio input from the buyer during live sales
 
 API: Google Speech-to-Text API.
 
-Implementation:
-
-Enabled Google Drive and Google Sheets APIs.
+Implementation:Enabled Google Drive and Google Sheets APIs.
 
 Downloaded credentials.json file using a service account on Google Console.
 
@@ -44,9 +44,7 @@ Output: Converts audio into text for further processing.
 
 # 3. Sentiment and Intent Analysis
 
-Models Used:
-
-Sentiment Analysis: cardiffnlp/twitter-roberta-base-sentiment from Hugging Face.
+Models Used:Sentiment Analysis: cardiffnlp/twitter-roberta-base-sentiment from Hugging Face.
 
 Intent Analysis: facebook/bart-large-mnli from Hugging Face.
 
@@ -54,9 +52,13 @@ Objective: Understand the buyer's mood and intent to provide actionable insights
 
 # 4. Deal Recommendations
 
+Models used: Command-xlarge-nightly model from Cohere LLM
+
 Approach: Suggest laptops based on the input given by the buyer and extract matched laptops names in the input to the product name in the dataset, recommends to the buyer.
 
 # 5. Negotiating Terms Generation
+
+Models used: Command-xlarge-nightly model from Cohere LLM
 
 Approach: Extracts keywords based on sentiment and intent analysis.
 
@@ -72,9 +74,7 @@ Model used: llama 3.3 70b versatile model from GROQ LLM.
 
 Purpose: Records all buyer interactions and contextual data for tracking and analysis.
 
-Implementation:
-
-Used the spreadsheet ID of a shared Google Sheet linked with the service account in the credentials file.
+Implementation:Used the spreadsheet ID of a shared Google Sheet linked with the service account in the credentials file.
 
 # 8. Workflow Integration
 Objective: Seamlessly integrates all steps into a unified, functional workflow for real-time operation.
