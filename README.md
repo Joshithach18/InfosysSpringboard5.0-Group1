@@ -24,7 +24,7 @@ Fully functional Workflow Integration to streamline processes end-to-end.
 
 ## Project Workflow
 
-The project workflow includes six major steps:
+The project workflow includes 8 major steps:
 
 # 1. Speech Recognition
 
