@@ -160,7 +160,7 @@ Google Speech-to-Text API
 
 Google Sheets API
 
-### This project is done by the first group pf three members from the internship
+### This project is done in collaboration of the first group of three of us, as part of our Internship at Infosys Springboard 5.0
 
 ### Mule Jashmitha Reddy (Email:221501150@rajalakshmi.edu.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
 
