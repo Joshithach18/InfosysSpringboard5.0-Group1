@@ -66,7 +66,7 @@ Generates basic negotiation terms tailored to the buyer's context.
 
 # 6. Summarization of Conversation
 
-Aprroach: Sumamrizes the whole conversation and finalises the deal status based on the sentiment.
+Aprroach: Summarizes the whole conversation and finalises the deal status based on the sentiment.
 
 Model used: llama 3.3 70b versatile model from GROQ LLM.
 
