@@ -170,7 +170,7 @@ Google Sheets API
 
 ### Contirbutors:
 
-### Mule Jashmitha Reddy (Email:221501150@rajalakshmi.edu.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
+### Mule Jashmitha Reddy (Email:21204031@rmd.ac.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
 
 ### Nitisha Choudary (Email:choudharynitisha00@gmail.com,Github repo:https://github.com/NitishaChoudhary/Internship-Infosys5.0B3)
 
