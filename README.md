@@ -134,7 +134,7 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 Clone the repository:
 
-git clone https://github.com/your-username/InfosysSpringboard5.0-Group1.git
+git clone https://github.com/Joshithach18/InfosysSpringboard5.0-Group1.git
 
 cd InfosysSpringboard5.0-Group1
 
@@ -159,3 +159,11 @@ Groq LLM
 Google Speech-to-Text API
 
 Google Sheets API
+
+### This project is done by the first group pf three members from the internship
+
+### Mule Jashmitha Reddy (Email:221501150@rajalakshmi.edu.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
+
+### Nitisha Choudary (Email:choudharynitisha00@gmail.com,Github repo:https://github.com/NitishaChoudhary/Internship-Infosys5.0B3)
+
+### Joshitha Chennamsetty (Enail:joshithachennamsetty@gmail.com,Github repo:https://github.com/Joshithach18/Infosys-Springboard-5.0-internship)
