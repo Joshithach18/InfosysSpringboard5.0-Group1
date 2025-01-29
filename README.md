@@ -160,7 +160,12 @@ Google Speech-to-Text API
 
 Google Sheets API
 
-##### Previous Intercation summary spreadsheet URL: https://docs.google.com/spreadsheets/d/1BQRX513_GAiLKokObbJoA30foTKzLC_BFS48LD5MMTM/edit?gid=0#gid=0
+#### Previous Intercation summary spreadsheet URL: https://docs.google.com/spreadsheets/d/1BQRX513_GAiLKokObbJoA30foTKzLC_BFS48LD5MMTM/edit?gid=0#gid=0
+
+#### Presentation file: https://docs.google.com/presentation/d/1uLfUlGXl_pjd5aujuCsOyt5ukJWSQjP-/edit?usp=sharing&ouid=115290809046251519926&rtpof=true&sd=true
+
+#### Demo Video: https://drive.google.com/file/d/1F5uPjfG2CPpY79v2WGxCtKF0jKx-1GP7/view?usp=sharing
+
 ### This project is done in collaboration of the first group of three of us, as part of our Internship at Infosys Springboard 5.0
 
 ### Mule Jashmitha Reddy (Email:221501150@rajalakshmi.edu.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
