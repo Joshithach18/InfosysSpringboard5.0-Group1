@@ -95,7 +95,7 @@ Fork the Repository: Create your own fork of the repository.
 
 Clone the Repository: Clone the forked repository to your local machine.
 
-git clone https://github.com/Joshithach18/real-time-ai-sales-intelligence.git
+git clone https://github.com/Joshithach18/InfosysSpringboard5.0-Group1.git
 
 Create a Branch: Create a new branch for your changes.
 
@@ -134,9 +134,9 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 Clone the repository:
 
-git clone https://github.com/your-username/real-time-ai-sales-intelligence.git
+git clone https://github.com/your-username/InfosysSpringboard5.0-Group1.git
 
-cd real-time-ai-sales-intelligence
+cd InfosysSpringboard5.0-Group1
 
 ## Install required dependencies:
 
@@ -144,13 +144,17 @@ pip install -r requirements.txt
 
 Run the project:
 
-python main.py
+Streamlit run frontend.py
 
 ## Acknowledgments
 
 This project uses:
 
 Hugging Face Transformers
+
+Cohere LLM
+
+Groq LLM
 
 Google Speech-to-Text API
 
