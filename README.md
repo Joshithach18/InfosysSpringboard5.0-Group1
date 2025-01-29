@@ -167,4 +167,4 @@ Google Sheets API
 
 ### Nitisha Choudary (Email:choudharynitisha00@gmail.com,Github repo:https://github.com/NitishaChoudhary/Internship-Infosys5.0B3)
 
-### Joshitha Chennamsetty (Enail:joshithachennamsetty@gmail.com,Github repo:https://github.com/Joshithach18/Infosys-Springboard-5.0-internship)
+### Joshitha Chennamsetty (Email:joshithachennamsetty@gmail.com,Github repo:https://github.com/Joshithach18/Infosys-Springboard-5.0-internship)
