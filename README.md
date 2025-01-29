@@ -168,6 +168,8 @@ Google Sheets API
 
 ### This project is done in collaboration of the first group of three of us, as part of our Internship at Infosys Springboard 5.0
 
+### Contirbutors:
+
 ### Mule Jashmitha Reddy (Email:221501150@rajalakshmi.edu.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
 
 ### Nitisha Choudary (Email:choudharynitisha00@gmail.com,Github repo:https://github.com/NitishaChoudhary/Internship-Infosys5.0B3)
